@@ -1,0 +1,2 @@
+Hey, i get this file by merging with slave branch.
+Git is good, I'm enjoying learning it.
